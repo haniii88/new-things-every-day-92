@@ -1,4 +1,4 @@
-/* New Things Every Day — Da92 */
+/* New Things Every Day — Day 92 */
 /* Generates a daily activity log with a calculated metric */
 
 function dailyLog92() {
